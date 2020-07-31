@@ -5,8 +5,7 @@
 # English 🇬🇧
 #### Who I'am ? 🤖
 
-I'm Tony, 21 years old with a predominant baldness and a lot of white hairs, that's how programming forged me.\
-Self-taught developer I forgot how to breath without programming, so I can probably say that it's my passion.\
+I'm Tony, 21 years, self-taught developer I forgot how to breath without programming, so I can probably say that it's my passion.\
 That's why in 2019 I decided to apply to the piscine of the 42born2code school in Paris, now that's my second year at 42. 🥳
 
 #### What I love ? 💗
@@ -33,8 +32,7 @@ I use tabs and VIM instead of spaces and Emacs.\
 
 #### Qui suis-je ? 🤖
 
-Je suis Tony, j'ai 21 ans et j'ai une calvitie prédominante et pas mal de cheveux blancs, c'est ainsi que la programmation m'a forgé.\
-Je me suis formé au code en autodidacte et depuis j'ai oublié comment respirer sans coder, je peux donc probablement dire que c'est devenu une passion. 🤖\
+Je suis Tony, j'ai 21 ans, je me suis formé au code en autodidacte et depuis j'ai oublié comment respirer sans coder, je peux donc probablement dire que c'est devenu une passion. 🤖\
 C'est pourquoi en 2019 j'ai décidé de participer à la piscine de l'école 42, maintenant j'attaque ma deuxième année à 42. 🥳
 
 #### Qu'est-ce que j'aime ? 💗
