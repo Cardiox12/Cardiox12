@@ -3,7 +3,7 @@
 ![Hello](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
 
 # English 🇬🇧
-#### Who I'am ? 🤖
+#### Who am I ? 🤖
 
 I'm Tony, 21 years, self-taught developer I forgot how to breath without programming, so I can probably say that it's my passion.\
 That's why in 2019 I decided to apply to the piscine of the 42born2code school in Paris, now that's my second year at 42. 🥳
