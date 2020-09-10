@@ -28,7 +28,7 @@ My goal in 2020 is to learn C++ and probably launch my start-up in 2021, who kno
 I use tabs and VIM instead of spaces and Emacs.\
 ![tabsvsspaces](https://media.giphy.com/media/l0IylSajlbPRFxH8Y/giphy.gif)
 
-# French 🇫🇷
+# Français 🇫🇷
 
 #### Qui suis-je ? 🤖
 
