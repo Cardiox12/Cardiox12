@@ -14,10 +14,31 @@ I really really love programming, especially Python because of it's elegance.\
 I have a lot of ideas to drive me crazy, that's probably why I have a lot of projects unfinished. 😅\
 But don't worry, there are still finished projects on my github and my [gitlab](https://gitlab.com/Cardiox12) (but shttt, don't tell to github I'm using gitlab).
 
-#### What I'm learning ? 📖
+#### What I learned ? What I'm learning ? 📖
 
-Currently, I take the summer vacation to work on devops problematics.\
-I'm redoing a 42 project named ft_server with docker-compose and vagrant, if you're interested [check this out](https://github.com/Cardiox12/ft_server_remastered).
+##### - June 2020
+Studied [Cpython Internals By Anthony Shaw](https://realpython.com/products/cpython-internals-book/).\
+I applied what I learned from the CPython source code and I implemented the following components for my [libft](https://github.com/Cardiox12/libft/tree/master) :
+- [list object](https://github.com/Cardiox12/libft/tree/master/src/ft_objects)
+- [reference counter](https://github.com/Cardiox12/libft/tree/master/src/ft_stdlib)\
+  Useful functionnality that keep tracks of all the allocation made by using a malloc wrapper, so it impossible to lose track of an allocated object.
+
+##### - Summer 2020
+I passed my summer vacation working on devops problematics.\
+For these purposes I did the following projects :
+  - [ft_services](https://github.com/Cardiox12/42ft_services)
+    - [Components.sh](https://github.com/Cardiox12/components.sh)\
+      A little library of usefuls components like progress-bar, status-bar, etc ...
+      
+##### - September to October
+Worked on Minishell, a school project where we have to code a bash shell.\
+Learned a lot about interpreters, I did the following project as an introduction to Minishell :
+- [Expression Evaluator](https://github.com/Cardiox12/Mini-Lexer)
+  It evaluate expression with operator priority.
+ 
+##### - November
+Worked on ChessGame, a terminal chess game to improve my C++ skills.\
+- [ChessGame](https://github.com/Cardiox12/ChessGame)
 
 #### Goals ? 🎯 
 
@@ -43,8 +64,27 @@ Mais ne vous inquiétez pas, il y a quand même des projets achevés que vous po
 
 #### Qu'est-ce que j'apprends ? 📖
 
-Actuellement, je profite des vacances d'été afin de me sensibilier aux problématiques devops.\
-Je suis en train de refaire un des projets de 42 nommé ft_server avec notamment l'utilisation des docker-compose et vagrant, si vous voulez en savoir plus vous retrouvez le repo [ici](https://github.com/Cardiox12/ft_server_remastered).
+##### - Juin 2020
+Étude du code source de python grâce au livre d'Anthony Shaw [Cpython Internals By Anthony Shaw](https://realpython.com/products/cpython-internals-book/).
+J'ai mis à profit les connaissances que j'ai pu acquérir en implémentant certaines des fonctionnalités internes de Python pour ma [libft](https://github.com/Cardiox12/libft/tree/master) :
+- [Compteur de référence](https://github.com/Cardiox12/libft/tree/master/src/ft_stdlib)\
+  Fonctionnalité très utile pour garder une trace des toutes les allocations faites durant l'exécution d'un programme. Il est rendu impossible de perdre la trace d'un objet alloué.
+
+##### - Summer 2020
+J'ai profité de mes vacances d'été afin de travailler sur des probmétiques devops.\
+Pour se faire, j'ai effectué les projets suivants 
+  - [ft_services](https://github.com/Cardiox12/42ft_services)
+    - [Components.sh](https://github.com/Cardiox12/components.sh)\
+      Une librairie de composants utiles tel qu'une progress-bar, status-bar, etc ...
+      
+##### - September to October
+Étude des interpréteurs afin de réaliser le projet Minishell qui a pour but de recoder un shell bash.\
+J'ai appris beaucoup sur le fonctionnement interne des interpréteurs et j'ai notamment effectué le projet suivant en introduction :
+- [Expression Evaluator](https://github.com/Cardiox12/Mini-Lexer)
+  Le programme évalue une expression mathématique et gère la priorité des opérateurs.
+ 
+##### - November
+Étude du C++ avec le projet [ChessGame](https://github.com/Cardiox12/ChessGame), un jeu d'échecs sur terminal.
 
 #### Mes buts ? 🎯 
 
