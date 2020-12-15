@@ -1,4 +1,4 @@
-# Hello World! That's where everything began 🖥
+# Hello World! 🖥
 
 ![Hello](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
 
