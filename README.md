@@ -5,7 +5,7 @@
 # English 🇬🇧
 #### Who Am I ? 🤖
 
-I'm Tony, 22 years, self-taught developer and student at 42Born2code school. 🥳
+I'm Tony, 23 years old, self-taught developer and student at 42Born2code school. 🥳
 
 #### What I love ? 💗
 
